@@ -1,7 +1,7 @@
 <#
     Title:          Qualys Vulnerability Management (VM) Host Detection Data Connector
     Language:       PowerShell
-    Version:        1.2
+    Version:        1.2.1
     Author(s):      Microsoft
     Last Modified:  8/14/2020
     Comment:        Added pagination support and flatten the data.
